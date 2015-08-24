@@ -4,24 +4,23 @@
         ""
     ],
     "companyName": "eggoez",
-    "longName": "Very fuzzy time mod & translated to Jowo (Beta Version)",
+    "longName": "CoroWatch 2",
     "projectType": "native",
     "resources": {
         "media": [
             {
-                "file": "images/menu_icon.png",
-                "menuIcon": true,
+                "file": "images/Untitled-1.png",
                 "name": "menu_icon",
                 "type": "png"
             }
         ]
     },
     "sdkVersion": "2",
-    "shortName": "CoroWatchBeta",
-    "uuid": "3988a203-61c3-4e17-8640-4c7ae8a511b1",
+    "shortName": "CoroWatch 2",
+    "uuid": "7380b9c5-ee32-4788-8ace-cb6d353c7662",
     "versionCode": 1,
-    "versionLabel": "1.9",
+    "versionLabel": "1.0",
     "watchapp": {
-        "watchface": true
+        "watchface": false
     }
 }
